@@ -85,6 +85,18 @@ footer {
     opacity: 50%;
 }
 
+#extra-stuff {
+    margin-top: 18vh;
+}
+
+#Corona-stats {
+    font-size: 0.5em;
+}
+
+#Corona-stats{
+    margin-top: 1vw;
+}
+
 @media all and (min-width: 800px) and (max-width: 1200px) {
     .items {
         width: calc(76vw/2);
